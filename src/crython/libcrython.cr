@@ -1,5 +1,5 @@
 # :nodoc:
-@[Link(ldflags: "#{__DIR__}/ext/libcrython.a")]
+@[Link(ldflags: "#{__DIR__}/../ext/libcrython.a")]
 lib LibCrython
   alias PyObject = Void*
 

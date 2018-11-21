@@ -1,9 +1,10 @@
 require "./spec_helper"
 
 describe Crython do
-  # TODO: Write tests
-
-  it "works" do
-    false.should eq(true)
+  it "loads" do
+    Crython.init
+    Crython.initialized?.should be_true
+    Crython.finalize
+    Crython.initialized?.should be_false
   end
 end
