@@ -19,7 +19,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   crython:
-    github: rumenzu/crython
+    github: RomainFranceschini/crython
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/rumenzu/crython/fork>)
+1. Fork it (<https://github.com/RomainFranceschini/crython/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -45,4 +45,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [rumenzu](https://github.com/rumenzu) Romain Franceschini - creator, maintainer
+- [Romain Franceschini](https://github.com/RomainFranceschini) - creator, maintainer
